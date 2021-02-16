@@ -21,3 +21,4 @@ I wanted to learn Django/web development a bit better.
 - Update User Profile
 - Create, Update and Delete Posts
 - Pagination
+- Email and Password Reset (learned how to set ENV variables)
